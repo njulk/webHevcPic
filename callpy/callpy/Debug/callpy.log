@@ -1,0 +1,11 @@
+﻿  main.cpp
+main.obj : error LNK2019: 无法解析的外部符号 __imp__PyObject_GetAttrString，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__PyArg_Parse，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__Py_BuildValue，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__Py_Initialize，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__Py_Finalize，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__PyEval_CallObjectWithKeywords，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__PyImport_ImportModule，该符号在函数 _main 中被引用
+C:\Python27\libs\python27.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+C:\Program Files\MySQL\MySQL Connector.C 6.1\lib\libmysql.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“X86”冲突
+F:\webHevcPic\callpy\Debug\callpy.exe : fatal error LNK1120: 7 个无法解析的外部命令
